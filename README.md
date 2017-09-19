@@ -1,6 +1,16 @@
 # FirebasePhoneAuthenticationDemo
 This is the simple demo to test how Firebase Phone Authentication works. After configuring Firebase and Push notification settings as mentioned here:https://firebase.google.com/docs/auth/ios/phone-auth, we can directly run this code and check how it works. NOTE: Change bundle identifier after downloading project. 
 
+# SCREENSHOTS
+
+![""](https://user-images.githubusercontent.com/19530824/30578308-cd2fdbca-9d30-11e7-8199-44130e333e09.jpg)
+
+![""](https://user-images.githubusercontent.com/19530824/30578307-ccf50eb4-9d30-11e7-8401-29e3cb7b41e7.jpg)
+
+![""](https://user-images.githubusercontent.com/19530824/30578309-cd4e9e70-9d30-11e7-9b4a-3820c0a6f9bc.jpg)
+
+
+
 # IMPORTANT
 This repository uses some pods. So go to project location and run this command 'pod install'.
 
@@ -10,7 +20,7 @@ This repository uses some pods. So go to project location and run this command '
 3. IQKeyboardManagerSwift: https://github.com/hackiftekhar/IQKeyboardManager
 
 
-#LICENSE
+# LICENSE
 
 MIT License
 
